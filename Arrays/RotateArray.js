@@ -26,3 +26,5 @@ function reverseArray(arr, l, r) {
 let testArray = [1, 2, 3, 4, 5];
 rotateArray(testArray, 2);
 console.log(testArray)
+
+/* clockwise first reverse the entire array then 0 to d and then d to n
