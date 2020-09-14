@@ -6,7 +6,7 @@ Example 1:
 
 Input:
 N = 1
-A[] = {1}
+A[] = {6, 1, 2 , 2 , 2 }
 Output: 1
 Explanation: Since its the only
 element hence its the only equilibrium
